@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha2704&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha2704" /> </p>
 
-- 🌱 I’m currently learning **DSA , Data Analytics**
+- 🌱 I’m currently learning **DSA , Data Analytics,Data Science**
 
 - 📫 How to reach me **akankshareddy510@gmail.com**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/onteddu akanksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onteddu akanksha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/onteddu-akanksha-420239309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onteddu akanksha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
