@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm O.Akanksha Reddy</h1>
+<h1 align="center">Hi 👋, I'm O.Akanksha </h1>
 <h3 align="center">I am an enthusiastic coder driven by an unyielding passion for programming.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e88fead2-c53b-432f-b902-fa56905cef70">
 ">
